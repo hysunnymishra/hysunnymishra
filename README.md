@@ -13,9 +13,6 @@
   <a href="mailto:imsunnykumarmishra@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://sunnykumar.dev">
-    <img src="https://img.shields.io/badge/-Portfolio-4CAF50?logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
 </p>
 👋 Hi, I’m Sunny Mishra , a Full-Stack Developer passionate about building seamless web experiences. With expertise in blockchain and 
  AI, I love merging cutting-edge tech with real-world solutions. Let’s connect and create something extraordinary !

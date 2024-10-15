@@ -9,7 +9,8 @@
   </a>
   <a href="https://x.com/hlosunnymishra">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" />
-<a href="mailto:imsunnykumarmishra@gmail.com">
+<a 
+  href="mailto:imsunnykumarmishra@gmail.com">
   <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" alt="Email badge" />
 </a>
 

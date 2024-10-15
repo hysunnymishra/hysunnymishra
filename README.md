@@ -142,11 +142,12 @@
   <img src="https://img.shields.io/badge/Truffle-CC3626?logo=truffle&logoColor=white" alt="Truffles" />
   <img src="https://img.shields.io/badge/Web3.js-333333?logo=web3.js&logoColor=white" alt="Web3.js" />
 </div>
+<a href="mailto:imsunnykumarmishra@gmail.com">Send Email</a>
 <!-- Divider -->
 <hr />
 
 <!-- Footer -->
 <p align="center">
-  <em><a href="mailto:imsunnykumarmishra@gmail.com">Send Email</a></em>
+  <em>Projects are Below</em>
 </p> 
 

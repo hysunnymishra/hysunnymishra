@@ -26,7 +26,7 @@
  <h2 align="left"> :point_right:Languages </h2>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=html,css,js,typescript" />
-    <img src="https://skillicons.dev/icons?i=cpp,solidity,python,rust" />
+    <img src="https://skillicons.dev/icons?i=solidity,python,rust" />
    <br>
    
    ### **Frontend Development**

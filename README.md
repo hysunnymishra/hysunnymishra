@@ -1,9 +1,6 @@
 <h3 align="left">🌐 Full-Stack Developer | 🚀 Innovator | 💡 Problem Solver</h3>
 <!-- Badges -->
 <p align="left">
-  <a href="https://github.com/hysunnymishra">
-    <img src="https://img.shields.io/github/followers/sunnykumar?label=Follow&style=social" alt="Follow on GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/sunnykumarmishra/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
